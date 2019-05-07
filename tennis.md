@@ -1,4 +1,4 @@
-DiUS is hosting a tennis tournament. To aid with this, we're developing a scoring system.
+XYZ is hosting a tennis tournament. To aid with this, we're developing a scoring system.
 
 The scoring system for tennis works like this.
 
@@ -33,7 +33,6 @@ More information on tennis scoring can be found here https://en.wikipedia.org/wi
 
 For example:
 
-
 The interface should look something like this in Java:
 
 ```
@@ -66,7 +65,7 @@ The interface should look something like this in Java:
 
 Notes on implementation:
 
-- use **Java, Javascript, TypeScript, Ruby, Kotlin, Python, Swift, or Groovy**
+- use **Java, Javascript, TypeScript, Ruby, Kotlin, Python or Groovy**
 - try not to spend more than 2 hours maximum. (We don't want you to lose a weekend over this!)
 - don't build guis etc, we're more interested in your approach to solving the given task, not how shiny it looks
 - don't worry about making a command line interface to the application
