@@ -1,4 +1,4 @@
-XYZ is hosting a tennis tournament. To aid with this, we're developing a scoring system.
+HitIQ is hosting a tennis tournament. To aid with this, we're developing a scoring system.
 
 The scoring system for tennis works like this.
 
