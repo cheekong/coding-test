@@ -72,3 +72,5 @@ Notes on implementation:
 - don't use any frameworks (rails, spring etc), or any external jars/gems (unless it's for testing or build/dependency mgt)
 
 When you've finished, send through the link to your github-repo. Happy coding
+
+***based on the Coding Dojo Tennis Kata***
